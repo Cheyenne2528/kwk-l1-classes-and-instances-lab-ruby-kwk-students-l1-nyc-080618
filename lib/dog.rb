@@ -1,6 +1,6 @@
 # dog.rb
 class dog
-  def init
-  fido = dog.new
-  snoopy = dog.new
+  def initialize
+    fido = dog.new
+    snoopy = dog.new
   
