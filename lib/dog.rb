@@ -1,4 +1,5 @@
 # dog.rb
 class dog
   fido = dog.new
-  snoopy = dog
+  snoopy = dog.new
+  
