@@ -1,6 +1,7 @@
 # dog.rb
 class dog
-  def initialize
+  def initialize (fido,snoopy,lassie)
     fido = dog.new
     snoopy = dog.new
+    lassie = dog.new
   
